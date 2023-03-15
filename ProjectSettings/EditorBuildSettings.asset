@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Plugins/Practica 2/Practica2Carril.unity
+    guid: cfd086de910bed945913ac268aaa3c98
+  - enabled: 0
     path: Assets/Plugins/Practica 2/Practica2.unity
     guid: 34318ac88f82a2d4bb69ad2864caf175
   - enabled: 0
